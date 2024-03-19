@@ -69,7 +69,7 @@ class AccountMoveInvoice(models.Model):
             'discount2': discount_amount2,
             'net_invoice': total}]
 
-
+# csutom changes to show in pull
 
 # res = []
 #         for item in line_item:
